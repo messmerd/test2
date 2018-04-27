@@ -14,3 +14,4 @@ test: balanced.o
 
 balanced.o:
 	g++ -std=c++11 -g -c balanced.cpp -o balanced.o 
+
